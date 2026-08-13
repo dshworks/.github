@@ -1,6 +1,6 @@
 # dshworks
 
-Community workshop for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) ecosystem: verified field notes, a spam-filtered plugin registry, and theme discovery. Home: [dsh.works](https://dsh.works).
+Community workshop for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) ecosystem: verified field notes, a spam-filtered plugin registry, and theme discovery. Home: [dshworks.github.io](https://dshworks.github.io).
 
 **Not affiliated with DeepSeek.** The official repo says it best: the harness is "an idea, an official showcase, and a source of inspiration". The ecosystem belongs to the community.
 
@@ -11,7 +11,7 @@ Community workshop for the [DeepSeek Harness](https://github.com/deepseek-ai/dee
 | [howto-dsh](https://github.com/dshworks/howto-dsh) | Verified field notes: traps, skills, hooks, profiles. Every claim dated against a dsh version, with source paths so you can re-verify it. |
 | [awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) | Spam-filtered, open-data plugin registry. `plugins.json` is the source of truth; the README is rendered from it. |
 | [awesome-dsh-themes](https://github.com/dshworks/awesome-dsh-themes) | Registry of dsh themes and `--dsw-*` token skins, data-first like its sister registry. |
-| [dshworks.github.io](https://github.com/dshworks/dshworks.github.io) | The landing page at [dsh.works](https://dsh.works). Single static page, zero JS. |
+| [dshworks.github.io](https://github.com/dshworks/dshworks.github.io) | The landing page at [dshworks.github.io](https://dshworks.github.io). Single static page, zero JS. |
 
 Also here: `handbook`, an unofficial archive of link extracts and transcripts, private while it gets cleaned up for publication.
 
@@ -30,4 +30,4 @@ Curation is not zero-sum; other directories worth your time:
 
 ---
 
-社区维护的 DeepSeek Harness (`dsh`) 生态工坊：经验证的实战笔记、垃圾过滤的插件注册表、主题发现。**非 DeepSeek 官方项目。** 主页：[dsh.works](https://dsh.works)。
+社区维护的 DeepSeek Harness (`dsh`) 生态工坊：经验证的实战笔记、垃圾过滤的插件注册表、主题发现。**非 DeepSeek 官方项目。** 主页：[dshworks.github.io](https://dshworks.github.io)。
