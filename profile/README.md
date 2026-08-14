@@ -26,7 +26,6 @@ Curation is not zero-sum; other directories worth your time:
 
 - [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins): plugin directory with daily compatibility tracking
 - [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness): curated plugins, tools, and infrastructure
-- [dshfind.com](https://dshfind.com): plugin and learning directory
 
 ## The business model
 
