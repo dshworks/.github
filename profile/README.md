@@ -10,7 +10,7 @@ Community workshop for the [DeepSeek Harness](https://github.com/deepseek-ai/dee
 |---|---|
 | [howto-dsh](https://github.com/dshworks/howto-dsh) | Verified field notes: traps, skills, hooks, profiles. Every claim dated against a dsh version, with source paths so you can re-verify it. |
 | [awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins) | Spam-filtered, open-data plugin registry. `plugins.json` is the source of truth; the README is rendered from it. |
-| [awesome-dsh-themes](https://github.com/dshworks/awesome-dsh-themes) | Registry of dsh themes and `--dsw-*` token skins, data-first like its sister registry. |
+| [awesome-dsh-themes](https://github.com/dshworks/awesome-dsh-themes) | Registry of dsh themes and `--dsw-*` token skins, data-first like its sister registry. [Live gallery](https://dshworks.github.io/awesome-dsh-themes/) with in-browser previews. |
 | [dshworks.github.io](https://github.com/dshworks/dshworks.github.io) | The landing page at [dshworks.github.io](https://dshworks.github.io). Single static page, zero JS. |
 
 Also here: `handbook`, an unofficial archive of link extracts and transcripts, private while it gets cleaned up for publication.
