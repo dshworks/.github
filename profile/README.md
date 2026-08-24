@@ -13,6 +13,7 @@ Community workshop for the [DeepSeek Harness](https://github.com/deepseek-ai/dee
 | [dsh-meter](https://github.com/dshworks/dsh-meter) · [site](https://dsh.works/dsh-meter/) | What this session cost, which DeepSeek tariff is running, when it flips, and the balance behind it — one line under the composer. The rate card is scraped daily and re-verified, because published cards elsewhere still carry the retired flat pricing. |
 | [dsh-watch](https://github.com/dshworks/dsh-watch) | Put a watch on a stream: background listeners that wake the agent with new matching lines, plus a daemon host so a watcher runs unattended for weeks with no task and no browser. |
 | [dsh-crew](https://github.com/dshworks/dsh-crew) · [site](https://dsh.works/dsh-crew/) | Claude Code and Codex in real terminal panes beside dsh. You watch them work and you can take the keyboard — which is exactly what the built-in subagents do not offer. |
+| [dsh-ego-browser](https://github.com/dshworks/dsh-ego-browser) | ego lite browser automation that remembers. The agent recalls what it learned about a site before acting, promotes a script that worked into a reusable tool in ego's own format, and gets a real Continue/Finish prompt when a page needs you — which ego's own error text asks the harness for, and nobody had wired. |
 
 **Registries — the data is the product, the README is rendered from it.**
 
