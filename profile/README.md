@@ -1,6 +1,6 @@
 # dshworks
 
-Community workshop for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) ecosystem: verified field notes, two open-data registries, three plugins we run ourselves, and the sites that read them. Home: [dsh.works](https://dsh.works).
+Community workshop for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) ecosystem: verified field notes, two open-data registries, four plugins we run ourselves, and the sites that read them. Home: [dsh.works](https://dsh.works).
 
 **Not affiliated with DeepSeek.** The official repo says it best: the harness is "an idea, an official showcase, and a source of inspiration". The ecosystem belongs to the community. "DeepSeek Harness" is DeepSeek's trademark; everything here is named in the `DSH` form their [brand guidelines](https://github.com/deepseek-ai/deepseek-harness/blob/master/BRAND_GUIDELINES.md) recommend, and describes what it works with rather than claiming to be it.
 
