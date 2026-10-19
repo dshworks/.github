@@ -1,6 +1,6 @@
 # dshworks
 
-Community workshop for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) ecosystem: verified field notes, two open-data registries, four plugins we run ourselves, and the sites that read them. Home: [dsh.works](https://dsh.works).
+Community workshop for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (`dsh`) ecosystem: verified field notes, two open-data registries, five plugins we run ourselves, and the sites that read them. Home: [dsh.works](https://dsh.works).
 
 **Not affiliated with DeepSeek.** The official repo says it best: the harness is "an idea, an official showcase, and a source of inspiration". The ecosystem belongs to the community. "DeepSeek Harness" is DeepSeek's trademark; everything here is named in the `DSH` form their [brand guidelines](https://github.com/deepseek-ai/deepseek-harness/blob/master/BRAND_GUIDELINES.md) recommend, and describes what it works with rather than claiming to be it.
 
@@ -14,6 +14,7 @@ Community workshop for the [DeepSeek Harness](https://github.com/deepseek-ai/dee
 | [dsh-watch](https://github.com/dshworks/dsh-watch) | Put a watch on a stream: background listeners that wake the agent with new matching lines, plus a daemon host so a watcher runs unattended for weeks with no task and no browser. |
 | [dsh-crew](https://github.com/dshworks/dsh-crew) · [site](https://dsh.works/dsh-crew/) | Claude Code and Codex in real terminal panes beside dsh. You watch them work and you can take the keyboard — which is exactly what the built-in subagents do not offer. |
 | [dsh-ego-browser](https://github.com/dshworks/dsh-ego-browser) · [site](https://dsh.works/dsh-ego-browser/) | ego lite browser automation that remembers. The agent recalls what it learned about a site before acting, promotes a script that worked into a reusable tool in ego's own format, and gets a real Continue/Finish prompt when a page needs you — which ego's own error text asks the harness for, and nobody had wired. |
+| [dsh-solidworks](https://github.com/dshworks/dsh-solidworks) | The SOLIDWORKS on your desk, 2016 or later, on the PC or in a Windows VM beside your Mac. dsh models a part from a paragraph and checks the volume against its own arithmetic, reads the face you selected, assembles, checks interference, and draws it to PDF. Your files open read-only unless you say otherwise. |
 
 **Registries — the data is the product, the README is rendered from it.**
 
@@ -52,4 +53,4 @@ dsh.works and dshthemes.com carry four paid sponsor seats. They are the only thi
 
 ---
 
-社区维护的 DeepSeek Harness (`dsh`) 生态工坊：经验证的实战笔记、两个开放数据注册表、三个我们自己在用的插件，以及读取它们的站点。**非 DeepSeek 官方项目。** 主页：[dsh.works](https://dsh.works)。
+社区维护的 DeepSeek Harness (`dsh`) 生态工坊：经验证的实战笔记、两个开放数据注册表、五个我们自己在用的插件，以及读取它们的站点。**非 DeepSeek 官方项目。** 主页：[dsh.works](https://dsh.works)。
