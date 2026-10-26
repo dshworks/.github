@@ -42,7 +42,7 @@ If you tagged nothing and published nothing, we can still list you — the regis
 
 Curation is not zero-sum; other directories worth your time:
 
-- [AdamPlatin123/awesome-dsh-plugins](https://github.com/AdamPlatin123/awesome-dsh-plugins): plugin directory with daily compatibility tracking
+- [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar): continuous discovery with runtime install tests (formerly awesome-dsh-plugins)
 - [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness): curated plugins, tools, and infrastructure
 
 ## The business model
